@@ -1,0 +1,12 @@
+
+program-1
+javac CircuitApp.java Resistance.java
+java CircuitApp data.txt
+
+program-2
+javac SpellChecker.java 
+java SpellChecker bonk.txt
+
+program-3
+javac Department.java Course.java Student.java TestApp.java
+java TestApp
